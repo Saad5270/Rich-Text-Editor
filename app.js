@@ -169,7 +169,7 @@ function highlightColorDiv(){
         divBool= false;
     }
     else{
-        backcolorArea.style.display= 'none';
+        highlightcolorArea.style.display= 'none';
         divBool= true;
     }
 }
